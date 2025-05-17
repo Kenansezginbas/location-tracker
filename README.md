@@ -1,6 +1,6 @@
 # 📱 LocationTracker
 
-Flutter ile geliştirilmiş basit bir **konum takip uygulamasıdır**. Uygulama, kullanıcıdan konum izni alarak belirli aralıklarla (örn. 100 metre) konum verisini günceller ve state yönetimi için `Provider` kullanır.
+Flutter ile geliştirilmiş basit bir **konum takip uygulamasıdır**. Uygulama, kullanıcıdan konum izni alarak belirli aralıklarla (örn. 100 metre) konum verisini günceller ve state yönetimi için `Provider` kullanır. Google MAP API KEY AppDelegate.swift'e eklenerek kullanılabilir
 
 ## 🚀 Özellikler
 
